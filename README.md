@@ -1,16 +1,59 @@
-## Hi there 👋
 
-<!--
-**nanzhipro/nanzhipro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# nanzhi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**macOS AI Agent 安全 · Making AI coding agents safe to run.**
+
+</div>
+
+---
+
+## 关于我 / About
+
+我是老鹿。20 年 macOS 系统编程经验，一直在一线写代码。
+
+企业数据安全、终端安全、DLP/EDR 是我的日常工作，但我的公共身份是：
+
+> **让 AI 编程助手安全地工作。**—— 专注 AI Agent 安全，从资产扫描到系统级行为监控，做有技术深度、有实际价值的事。
+
+这里公开的知识和数据，本质上是我的 OPC 创业过程的实时记录。
+
+## 关注方向 / Focus
+
+- **macOS AI Agent 安全**：AI 编程工具的资产扫描、配置审计、行为监控。基于 EndpointSecurity 系统原语。
+- **Vibe Coding 安全**：Agent 权限控制、密钥泄露检测、MCP 服务器安全评估、敏感文件暴露面分析。
+- **macOS 安全工具开发**：EndpointSecurity Framework · System Extension · XPC · 代码签名与分发。
+
+## 代表项目 / Featured Projects
+
+| Project | What it is |
+| --- | --- |
+| [Aegis](https://github.com/nanzhipro/Aegis) | macOS Endpoint Security Agent — 目录级访问控制与系统原生安全边界 |
+| [SnapSort](https://github.com/nanzhipro/SnapSort) | AI-powered screenshot organization app for macOS |
+| [TextWeaver](https://github.com/nanzhipro/TextWeaver) | 基于文本与 AI 生成精美 HTML / PNG 的内容工作流 |
+
+## 现在在做 / Currently Building
+
+- **AgentGuard**：macOS AI Agent 实时行为监控工具（基于 ES `es_new_descendants_client`）
+- **AI Agent 安全评估服务**：为企业提供 AI 编程工具的安全审计和合规报告
+- **内容输出**：公众号「四分地」写 AI Agent 安全系列文章
+
+## Tech Stack
+
+`Swift` · `Rust` · `Python` · `Objective-C` · `C` · `Markdown`
+
+---
+
+如果你也在做 **AI Agent 安全、macOS 系统编程、安全工具开发**，欢迎交流。
+If you're building in similar areas, feel free to reach out.
+
+
+
+
+若有干扰，可在「设置」关闭悬浮球
+
+👋 Hi，想聊点什么～
+输入您的问题... (Enter 发送，Shift+Enter 换行)
+内容由AI生成，仅供参考
+
