@@ -46,14 +46,3 @@
 ---
 
 如果你也在做 **AI Agent 安全、macOS 系统编程、安全工具开发**，欢迎交流。
-If you're building in similar areas, feel free to reach out.
-
-
-
-
-若有干扰，可在「设置」关闭悬浮球
-
-👋 Hi，想聊点什么～
-输入您的问题... (Enter 发送，Shift+Enter 换行)
-内容由AI生成，仅供参考
-
